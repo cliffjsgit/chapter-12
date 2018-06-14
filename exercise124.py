@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 
+__author__ = "Your Name"
+
 ###############################################################################
 #
-print("\nExercise 12.4\n")
+# Exercise 12.4
 #
-# Question 1
+#
+# Grading Guidelines:
+# - Variable "answer" should be the longest word fitting the puzzle requirements
+#
 # 1. Here's another Car Talk Puzzler (http://www.cartalk.com/content/puzzlers):
 # What is the longest English word, that remains a valid English word, as you 
 # remove its letters one at a time?
@@ -39,3 +44,5 @@ print("\nExercise 12.4\n")
 # 
 # 4. To improve the performance of your program, you might want to memoize the 
 # words that are known to be reducible.
+
+answer = None
