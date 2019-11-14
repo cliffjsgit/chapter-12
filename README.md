@@ -25,6 +25,7 @@ problems, and the **words.txt** file into the solutions directory.
     
      ~/chapter-12 (master)$ cp exercise*  solutions/ 
      ~/chapter-12 (master)$ cp words.txt  solutions/
+     ~/chapter-12 (master)$ cp emma.txt  solutions/
      ...
     
 Make sure that you copy all of your completed exercise solutions and the words.txt file
