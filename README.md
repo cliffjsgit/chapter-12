@@ -1,6 +1,6 @@
 # Instructions
 
-#Chapter 12
+#Chapter 12 - README.md
 
 In these review exercises, you will be reviewing the basic Python techniques that are presented in the exercises of Think Python Chapter 12. 
 
