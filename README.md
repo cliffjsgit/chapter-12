@@ -20,7 +20,7 @@ Create a solutions directory for your exercise solutions, in the chapter-12 dire
       
      ~/chapter-12 (master)$ mkdir solutions
       
-Copy all of your final/completed chapter-9 lab **exercise solutions** from all exercise 
+Copy all of your final/completed chapter-12 lab **exercise solutions** from all exercise 
 problems, the **words.txt** file, and the **emma.txt** into the solutions directory.  
     
      ~/chapter-12 (master)$ cp exercise*  solutions/ 
